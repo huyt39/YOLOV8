@@ -1,0 +1,15 @@
+path: /Users/macbook/Documents/football_dataset #dataset root dir
+train: images/train #train images(relative to 'path')
+val: images/train #val images(relative to 'path')
+
+
+
+labels: labels/obj_train_data # nhãn cho tập huấn luyện và validation
+
+
+
+#Classes:
+names:
+  0: football
+
+
